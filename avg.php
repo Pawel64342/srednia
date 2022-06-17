@@ -5,7 +5,7 @@ function srednia(a,b){
 
 }
 
-function srednia_w(a,b){
+function srednia_waz(a,b){
 	return a*0.1+b*0.1
 	
 	
